@@ -1,0 +1,10 @@
+span.smallHead {font-style: oblique; font-size: 14px;}
+
+h1 {font-family: 'Times New Roman', Times, serif}
+h1.headstyle {background-size: 10cm; background-color: darkblue; font-weight: bold; color: white;}
+h2.headstyle {color: cornflowerblue; margin-bottom: 0px;}
+h3.headstyle {color: cornflowerblue; margin-bottom: 5px;} 
+a.headstyle {text-decoration: none; color: white;}
+
+table {margin-bottom: 30px;}
+img.to-left{float: left;  margin-right: 10px;}
